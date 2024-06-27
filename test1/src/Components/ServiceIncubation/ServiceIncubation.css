@@ -1,0 +1,66 @@
+.ServiceIncubationwrap{
+    width: 1440px;
+    height: 850px;
+    margin-top: 500px;
+    padding-top: 0;
+    padding-left: 20px;
+    padding-bottom: 0;
+    padding-right: 20px;
+    gap: 44px;
+    color: #F4F4F4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wrap{
+    width: 934px;
+    height: 151px;
+    gap: 24px;
+}
+.topwrap{
+    width: 934px;
+    height: 151px;
+    gap: 12px;
+}
+.top{
+    font-weight: 500;
+    line-height: 67.2px;
+    color: #212121;
+    display: flex;
+    flex-direction: column;
+}
+h2{
+    font-weight: 500;
+    font-size:56px;
+    line-height: 67.2px;
+    color: #212121;
+}
+h5{
+    font-weight: 500;
+    line-height: 38.4px;
+    color: #212121;
+    padding-left: 0;
+}
+h6{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23.8px;
+    color: #4E4E4E;
+    padding-left: 0;
+    
+}
+
+.middlewrap{
+width: 1200px;
+height: 576px;
+gap: 44px;
+}
+
+.middlewrap1{
+    width: 1200px;
+    height: 228px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

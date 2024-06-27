@@ -1,0 +1,26 @@
+.readmoreCont{
+    width: 1088px;
+    height: 548px;
+    margin-top: 991px;
+    margin-left: 176px;
+    gap: 32px;
+}
+.readmorewrap{
+    
+    width: 1088px;
+    height: 370px;
+    gap: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 176px;
+}
+.readmore{
+    width: 528px;
+    height: 370px;
+    border-radius: 12px;
+    padding: 24px;
+    gap:20px;
+    background: #fff;
+}
